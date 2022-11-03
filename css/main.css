@@ -1,0 +1,132 @@
+.container
+{
+	display:flex;
+	border:2px solid;
+	background-color:gray;
+	margin:2px;
+	height:700px;
+}
+.item
+{
+	background-color:black;
+	padding:20px;
+	height:600px;
+	width:60%;
+	margin-left:250px;
+	margin-top:50px;
+}
+
+.item1
+{
+	display:flex;
+	background-color:white;
+	padding:20px;
+	height:200px;
+	width:45%;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+
+.item2
+{
+	background-color:white;
+	padding:20px;
+	height:180px;
+	width:36%;
+	margin-left:450px;
+	margin-top:-185px;
+}
+
+.item3
+{
+	background-color:white;
+	padding:20px;
+	height:230px;
+	width:45%;
+	margin-left:130px;
+	margin-top:30px;
+}
+.box
+{
+	background-color:gray;
+	padding:20px;
+	height:170px;
+	width:2px;
+	margin-top:-2px;
+}
+
+.box1
+{
+	background-color:gray;
+	padding:20px;
+	height:170px;
+	width:2px;
+	margin-left:10px;
+	margin-top:-2px;
+}
+
+.box2
+{
+	background-color:gray;
+	padding:20px;
+	height:170px;
+	width:2px;
+	margin-left:10px;
+	margin-top:-2px;
+}
+
+.box3
+{
+	background-color:gray;
+	padding:20px;
+	height:170px;
+	width:2px;
+	margin-left:10px;
+	margin-top:-2px;
+}
+
+.box4
+{
+	background-color:gray;
+	padding:20px;
+	height:50px;
+	width:30%;
+	margin-left:170px;
+	margin-top:-5px;
+}
+
+.box5
+{
+	background-color:gray;
+	padding:20px;
+	height:45px;
+	width:5%;
+	margin-left:150px;
+	margin-top:-15px;
+}
+
+.box6
+{
+	background-color:gray;
+	padding:20px;
+	height:45px;
+	width:5%;
+	margin-left:150px;
+	margin-top:5px;
+}
+
+.box7
+{
+	background-color:gray;
+	padding:20px;
+	height:45px;
+	width:5%;
+	margin-left:150px;
+	margin-top:3px;
+}
+h1
+{
+	text-align:center;
+	color:black;
+}
